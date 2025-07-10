@@ -1,2 +1,2 @@
-# LLM
-LLM Fundamentals
+# Restaurant Brand Generator
+Using Langchain, ollama-model, streamlit
